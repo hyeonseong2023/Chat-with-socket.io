@@ -97,7 +97,7 @@ socket.on("room_change", (rooms) => {
 
 
 
-/* ================= websocket 수업
+/* ================== websocket 수업
 
 // server.js(back end) 에서의 socket은 연결된 브라우저,
 // app.js(front end) 에서의 socket은 서버로의 연결
