@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-# Chat-with-socket.io
-=======
-# Noom
 
-Zoom Clone using NodeJS, WebRTC and Websockets
->>>>>>> master
+# Chat-with-socket.io
+
+Zoom Clone using NodeJS, Websockets and socket.io
+
